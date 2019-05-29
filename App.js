@@ -9,3 +9,5 @@ let name = 'Abe';
 let name2 = name;
 console.log(name, name2);
 name = 'Liza';
+console.log(name, name2);
+
