@@ -18,3 +18,4 @@ wrong = true;
 console.log(wrong, right)
 
 const players = ['Abe', 'Sarah', 'Ryan', 'Poppy'];
+const team = players;
