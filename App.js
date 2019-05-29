@@ -44,3 +44,4 @@ const abe = {
 };
 console.log(abe);
 const dev = Object.assign({}, abe);
+const dev2 = JSON.parse(JSON.stringify(abe));
