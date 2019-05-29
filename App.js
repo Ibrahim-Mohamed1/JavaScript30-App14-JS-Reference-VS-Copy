@@ -5,3 +5,4 @@ console.log(age, age2);
 age = 200;
 console.log(age, age2);
 
+let name = 'Abe';
