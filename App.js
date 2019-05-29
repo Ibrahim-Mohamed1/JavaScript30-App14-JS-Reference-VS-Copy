@@ -15,3 +15,5 @@ let wrong = false;
 let right = wrong;
 console.log(wrong, right);
 wrong = true;
+console.log(wrong, right)
+
