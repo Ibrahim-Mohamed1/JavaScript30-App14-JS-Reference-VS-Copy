@@ -28,3 +28,7 @@ team4[3] = 'heeee hawww';
 console.log(team4);
 const team5 = Array.from(players);
 
+const person = {
+    name: 'Abe',
+    age: 80
+};
