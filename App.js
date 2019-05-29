@@ -6,3 +6,4 @@ age = 200;
 console.log(age, age2);
 
 let name = 'Abe';
+let name2 = name;
