@@ -7,3 +7,6 @@ body{
     margin-left: 10px;
     color: gray;
 }
+a{
+    text-decoration-color: black;
+}
