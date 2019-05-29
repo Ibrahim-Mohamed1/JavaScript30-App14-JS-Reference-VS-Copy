@@ -17,3 +17,4 @@ console.log(wrong, right);
 wrong = true;
 console.log(wrong, right)
 
+const players = ['Abe', 'Sarah', 'Ryan', 'Poppy'];
