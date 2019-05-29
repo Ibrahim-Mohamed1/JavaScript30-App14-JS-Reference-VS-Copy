@@ -33,3 +33,4 @@ const person = {
     age: 80
 };
 const cap2 = Object.assign({}, person, { number: 99, age: 12 });
+console.log(cap2);
