@@ -11,3 +11,4 @@ console.log(name, name2);
 name = 'Liza';
 console.log(name, name2);
 
+let wrong = false;
