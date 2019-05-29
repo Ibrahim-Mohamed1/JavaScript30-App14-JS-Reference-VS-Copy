@@ -8,3 +8,4 @@ console.log(age, age2);
 let name = 'Abe';
 let name2 = name;
 console.log(name, name2);
+name = 'Liza';
