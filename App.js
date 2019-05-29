@@ -23,3 +23,4 @@ console.log(players, team);
 team[3] = 'Lux';
 const team2 = players.slice();
 const team3 = [].concat(players);
+const team4 = [...players];
