@@ -43,3 +43,4 @@ const abe = {
     }
 };
 console.log(abe);
+const dev = Object.assign({}, abe);
