@@ -13,3 +13,4 @@ console.log(name, name2);
 
 let wrong = false;
 let right = wrong;
+console.log(wrong, right);
